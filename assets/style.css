@@ -1,0 +1,9 @@
+h1{
+    font-weight: bolder;
+    color: blueviolet;
+}
+.card-column{
+    flex: 1 0 100%;
+    padding: 1.5rem;
+    transition: flex-basis 500ms linear;
+}
